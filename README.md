@@ -1,0 +1,1 @@
+This is my 3rd attempt at developing the Flask Blog, which now includes functioning login/logout pages, displays posts from a local database, and allows posts to be added from the browser. Added posts are inserted and stored into the local database.  
